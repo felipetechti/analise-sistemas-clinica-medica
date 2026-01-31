@@ -4,12 +4,11 @@
  │   ├─ 01_Requisitos.pdf
  │   ├─ 02_Casos_de_Uso.pdf
  │   ├─ 03_Historias_de_Usuario.pdf
- │   ├─ 04_Diagramas_UML.pdf
- │   ├─ 05_Modelo_Dados_DER.pdf
- │   ├─ 06_Casos_de_Teste.pdf
+ │   ├─ 04_Modelo_Dados_DER.pdf
+ │   ├─ 05_Casos_de_Teste.pdf
+ │   ├─ Diagrama_de_Casos_de_Usos.pdf
+ │   ├─ Diagrama_de_Atividades.pdf
  ├─ 📂 banco-de-dados
  │   └─ consultas.sql
  └─ 📂 prototipos
      └─ telas.pdf
-📂 docs
- └─ 01_Requisitos.pdf
